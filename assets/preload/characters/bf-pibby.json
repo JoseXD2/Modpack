@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "survivor bf idle"
+		},
+		{
+			"offsets": [
+				17,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "survivor bf left"
+		},
+		{
+			"offsets": [
+				-7,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "survivor bf down"
+		},
+		{
+			"offsets": [
+				-10,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "survivor bf up"
+		},
+		{
+			"offsets": [
+				-15,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "survivor bf right"
+		},
+		{
+			"offsets": [
+				17,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "survivor bf liss"
+		},
+		{
+			"offsets": [
+				-7,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "survivor bf diss"
+		},
+		{
+			"offsets": [
+				-10,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "survivor bf uiss"
+		},
+		{
+			"offsets": [
+				-15,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "survivor bf riss"
+		},
+		{
+			"offsets": [
+				-817,
+				-146
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "survivor bf dead"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				1
+			],
+			"anim": "firstDeath",
+			"fps": 20,
+			"name": "survivor bf dying",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-814,
+				-143
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "survivor bf dead"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/survivor bf",
+	"position": [
+		-830,
+		-70
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		50,
+		253,
+		239
+	],
+	"camera_position": [
+		-320,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

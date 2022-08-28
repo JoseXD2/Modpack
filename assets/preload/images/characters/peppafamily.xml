@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="peppafamily.png"><SubTexture name="peppafamily idle0000" x="0" y="0" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="peppafamily idle0001" x="804" y="0" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="peppafamily idle0002" x="1608" y="0" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="peppafamily idle0003" x="2412" y="0" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="peppafamily up0000" x="0" y="604" width="804" height="633" frameX="0" frameY="0" frameWidth="804" frameHeight="633" />
+<SubTexture name="peppafamily up0001" x="804" y="604" width="804" height="633" frameX="0" frameY="0" frameWidth="804" frameHeight="633" />
+<SubTexture name="peppafamily left0000" x="1608" y="604" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="peppafamily left0001" x="2412" y="604" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="peppafamily right0000" x="0" y="1237" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="peppafamily right0001" x="804" y="1237" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="peppafamily down0000" x="1608" y="1237" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="peppafamily down0001" x="2412" y="1237" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+</TextureAtlas>

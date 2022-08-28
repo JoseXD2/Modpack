@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"blue balled",
+			"bfc",
+			[
+				0,
+				140,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"bfo",
+		""
+	],
+	"storyName": "the fight for control",
+	"weekName": "week@",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekf",
+	"startUnlocked": true
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="percyDrive.png">
+<SubTexture name="drive0000" x="0" y="0" width="915" height="492" frameX="0" frameY="-598" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="drive0001" x="915" y="0" width="915" height="492" frameX="0" frameY="-598" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="drive0002" x="0" y="492" width="915" height="492" frameX="0" frameY="-598" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="drive0003" x="915" y="492" width="915" height="492" frameX="0" frameY="-598" frameWidth="1980" frameHeight="1080" />
+</TextureAtlas>

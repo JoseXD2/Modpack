@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="pibby.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="pibby idle0000" x="1" y="1" width="276" height="385" frameX="0" frameY="-2" frameWidth="293" frameHeight="387"/>
+	<SubTexture name="pibby idle0001" x="1" y="1" width="276" height="385" frameX="0" frameY="-2" frameWidth="293" frameHeight="387"/>
+	<SubTexture name="pibby idle0002" x="280" y="1" width="276" height="387" frameX="-4" frameY="0" frameWidth="293" frameHeight="387"/>
+	<SubTexture name="pibby idle0003" x="280" y="1" width="276" height="387" frameX="-4" frameY="0" frameWidth="293" frameHeight="387"/>
+	<SubTexture name="pibby idle0004" x="559" y="1" width="281" height="386" frameX="-8" frameY="-1" frameWidth="293" frameHeight="387"/>
+	<SubTexture name="pibby idle0005" x="559" y="1" width="281" height="386" frameX="-8" frameY="-1" frameWidth="293" frameHeight="387"/>
+	<SubTexture name="pibby idle0006" x="1" y="391" width="285" height="385" frameX="-8" frameY="-2" frameWidth="293" frameHeight="387"/>
+	<SubTexture name="pibby idle0007" x="1" y="391" width="285" height="385" frameX="-8" frameY="-2" frameWidth="293" frameHeight="387"/>
+	<SubTexture name="pibby idle0008" x="1" y="391" width="285" height="385" frameX="-8" frameY="-2" frameWidth="293" frameHeight="387"/>
+	<SubTexture name="pibby idle0009" x="1" y="391" width="285" height="385" frameX="-8" frameY="-2" frameWidth="293" frameHeight="387"/>
+	<SubTexture name="pibby idle0010" x="1" y="391" width="285" height="385" frameX="-8" frameY="-2" frameWidth="293" frameHeight="387"/>
+	<SubTexture name="pibby idle0011" x="1" y="391" width="285" height="385" frameX="-8" frameY="-2" frameWidth="293" frameHeight="387"/>
+	<SubTexture name="pibby idle0012" x="1" y="391" width="285" height="385" frameX="-8" frameY="-2" frameWidth="293" frameHeight="387"/>
+	<SubTexture name="pibby idle0013" x="1" y="391" width="285" height="385" frameX="-8" frameY="-2" frameWidth="293" frameHeight="387"/>
+	<SubTexture name="pibby idle0014" x="1" y="391" width="285" height="385" frameX="-8" frameY="-2" frameWidth="293" frameHeight="387"/>
+</TextureAtlas>

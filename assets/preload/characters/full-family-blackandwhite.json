@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				440
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": " idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				440
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": " left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				440
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": " down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				440
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": " up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				440
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": " right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				285
+			],
+			"anim": "attack",
+			"fps": 40,
+			"name": " bf-attacked",
+			"indices": []
+		},
+		{
+			"offsets": [
+				370,
+				280
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "lois turn",
+			"loop": false,
+			"name": " lois-turn"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/full-family-blackandwhite",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "full-family",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-600,
+		-300
+	],
+	"sing_duration": 6,
+	"scale": 1.1
+}

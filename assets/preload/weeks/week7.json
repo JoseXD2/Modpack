@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"broken-breaks",
+			"thomas",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "AAAUUUGGHHHHHHHHHH",
+	"weekName": "train",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

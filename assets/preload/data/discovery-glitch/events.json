@@ -1,0 +1,719 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "Room",
+		"player1": "bf",
+		"player2": "peppa",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				3428.57142857143,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				6857.14285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				10285.7142857143,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				22285.7142857143,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				27428.5714285714,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				27750,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				28071.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				28607.1428571429,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				28821.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				29035.7142857143,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				32571.4285714286,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				39771.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				44571.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				46971.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				49371.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				51771.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				55371.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				58971.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				60171.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				61371.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				64971.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				67371.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				70971.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				75771.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				80571.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				80646.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				82071.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				82521.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				82971.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				83046.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				83121.4285714286,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				84171.4285714286,
+				[
+					[
+						"Change Scroll Speed",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				84179.9512987013,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				85262.3376623377,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				86353.2467532467,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				88535.0649350649,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				89625.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				90716.8831168831,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				92898.7012987013,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				93989.6103896104,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				97262.3376623376,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				99444.1558441558,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				101625.974025974,
+				[
+					[
+						"Change Scroll Speed",
+						"1.6",
+						""
+					]
+				]
+			],
+			[
+				101633.786525974,
+				[
+					[
+						"Change Character",
+						"dad",
+						"peppafamily"
+					]
+				]
+			],
+			[
+				101641.599025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				102625.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				103625.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				105625.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				106625.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				108625.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				110625.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				111625.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				113625.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				114625.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				115625.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				117625.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				117631.182359307,
+				[
+					[
+						"Change Character",
+						"dad",
+						"peppa"
+					]
+				]
+			],
+			[
+				118813.474025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				119188.474025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				119375.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				119563.474025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				119750.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				120000.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				120250.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				120750.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				121188.474025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				128438.474025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			],
+			[
+				130750.974025974,
+				[
+					[
+						"Image Flash",
+						"0,0,1",
+						"estatica1,other,0.1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "discovery-glitch"
+	}
+}

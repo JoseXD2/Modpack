@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				400,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": " idle"
+		},
+		{
+			"offsets": [
+				450,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": " left"
+		},
+		{
+			"offsets": [
+				450,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": " down"
+		},
+		{
+			"offsets": [
+				450,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": " up"
+		},
+		{
+			"offsets": [
+				450,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": " right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/meg-chris",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "chris-meg",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-400,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

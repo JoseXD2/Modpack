@@ -1,0 +1,35 @@
+{
+	"storyName": "Meme Adventures :)",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"pikapika",
+			"imagepika",
+			[
+				235,
+				215,
+				0
+			]
+		],
+		[
+			"apel",
+			"apel",
+			[
+				132,
+				36,
+				63
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "MemeWeek"
+}

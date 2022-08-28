@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pibby_expression.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Angry instance 10000" x="0" y="0" width="290" height="344"/>
+	<SubTexture name="Normal instance 10000" x="290" y="0" width="290" height="343"/>
+	<SubTexture name="Sadexpression instance 10000" x="580" y="0" width="289" height="344"/>
+	<SubTexture name="Scared instance 10000" x="0" y="344" width="289" height="343"/>
+	<SubTexture name="Serious instance 10000" x="289" y="344" width="290" height="344"/>
+	<SubTexture name="Terrifed instance 10000" x="579" y="344" width="290" height="343"/>
+	<SubTexture name="disappointed instance 10000" x="0" y="688" width="290" height="343"/>
+	<SubTexture name="happy instance 10000" x="290" y="688" width="290" height="344"/>
+</TextureAtlas>

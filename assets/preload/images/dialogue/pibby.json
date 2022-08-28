@@ -1,0 +1,116 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"no_antialiasing": false,
+	"scale": 1.55,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-1,
+				-11
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "Normal instance",
+			"idle_name": "Normal instance"
+		},
+		{
+			"loop_name": "Angry instance",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"idle_name": "Angry instance",
+			"anim": "angry",
+			"loop_offsets": [
+				-1,
+				-11
+			]
+		},
+		{
+			"loop_name": "Sadexpression instance",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"idle_name": "Sadexpression instance",
+			"anim": "sad",
+			"loop_offsets": [
+				-1,
+				-11
+			]
+		},
+		{
+			"loop_name": "Scared instance",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"idle_name": "Scared instance",
+			"anim": "scared",
+			"loop_offsets": [
+				-1,
+				-11
+			]
+		},
+		{
+			"loop_name": "Serious instance",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"idle_name": "Serious instance",
+			"anim": "serious",
+			"loop_offsets": [
+				-1,
+				-11
+			]
+		},
+		{
+			"loop_name": "Terrifed instance",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"idle_name": "Terrifed instance",
+			"anim": "terrifed",
+			"loop_offsets": [
+				-1,
+				-11
+			]
+		},
+		{
+			"loop_name": "disappointed instance",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"idle_name": "disappointed instance",
+			"anim": "disappointed",
+			"loop_offsets": [
+				-1,
+				-11
+			]
+		},
+		{
+			"loop_name": "happy instance",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"idle_name": "happy instance",
+			"anim": "happy",
+			"loop_offsets": [
+				-1,
+				-11
+			]
+		}
+	],
+	"image": "Pibby_expression"
+}

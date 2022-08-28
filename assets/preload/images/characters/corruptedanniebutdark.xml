@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="corruptedannie.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="corruptannie_idle0000" x="0" y="0" width="324" height="437" frameX="-31" frameY="-36" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0001" x="324" y="0" width="324" height="437" frameX="-31" frameY="-36" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0002" x="648" y="0" width="325" height="445" frameX="-34" frameY="-28" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0003" x="973" y="0" width="325" height="445" frameX="-34" frameY="-28" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0004" x="1298" y="0" width="329" height="453" frameX="-36" frameY="-20" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0005" x="1627" y="0" width="329" height="453" frameX="-36" frameY="-20" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0006" x="1956" y="0" width="351" height="472" frameX="-24" frameY="-8" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0007" x="2307" y="0" width="343" height="465" frameX="-32" frameY="-8" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0008" x="2650" y="0" width="361" height="473" frameX="-22" frameY="0" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0009" x="3011" y="0" width="353" height="473" frameX="-30" frameY="0" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0010" x="3364" y="0" width="383" height="473" frameX="0" frameY="0" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0011" x="0" y="473" width="353" height="473" frameX="-30" frameY="0" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0012" x="353" y="473" width="378" height="473" frameX="-5" frameY="0" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0013" x="731" y="473" width="353" height="473" frameX="-30" frameY="0" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0014" x="1084" y="473" width="353" height="473" frameX="-30" frameY="0" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptannie_idle0015" x="1437" y="473" width="353" height="473" frameX="-30" frameY="0" frameWidth="383" frameHeight="480"/>
+	<SubTexture name="corruptedannie_down0000" x="1790" y="473" width="351" height="356" frameX="0" frameY="-80" frameWidth="375" frameHeight="436"/>
+	<SubTexture name="corruptedannie_down0001" x="2141" y="473" width="351" height="356" frameX="0" frameY="-80" frameWidth="375" frameHeight="436"/>
+	<SubTexture name="corruptedannie_down0002" x="2492" y="473" width="355" height="363" frameX="-3" frameY="-66" frameWidth="375" frameHeight="436"/>
+	<SubTexture name="corruptedannie_down0003" x="2847" y="473" width="355" height="363" frameX="-3" frameY="-66" frameWidth="375" frameHeight="436"/>
+	<SubTexture name="corruptedannie_down0004" x="3202" y="473" width="357" height="370" frameX="-8" frameY="-50" frameWidth="375" frameHeight="436"/>
+	<SubTexture name="corruptedannie_down0005" x="3559" y="473" width="357" height="370" frameX="-8" frameY="-50" frameWidth="375" frameHeight="436"/>
+	<SubTexture name="corruptedannie_down0006" x="0" y="946" width="374" height="376" frameX="-1" frameY="-35" frameWidth="375" frameHeight="436"/>
+	<SubTexture name="corruptedannie_down0007" x="374" y="946" width="363" height="376" frameX="-12" frameY="-35" frameWidth="375" frameHeight="436"/>
+	<SubTexture name="corruptedannie_down0008" x="737" y="946" width="363" height="376" frameX="-12" frameY="-35" frameWidth="375" frameHeight="436"/>
+	<SubTexture name="corruptedannie_down0009" x="1100" y="946" width="363" height="376" frameX="-12" frameY="-35" frameWidth="375" frameHeight="436"/>
+	<SubTexture name="corruptedannie_down0010" x="1463" y="946" width="365" height="377" frameX="-10" frameY="-34" frameWidth="375" frameHeight="436"/>
+	<SubTexture name="corruptedannie_down0011" x="1828" y="946" width="363" height="376" frameX="-12" frameY="-35" frameWidth="375" frameHeight="436"/>
+	<SubTexture name="corruptedannie_down0012" x="2191" y="946" width="365" height="411" frameX="-10" frameY="0" frameWidth="375" frameHeight="436"/>
+	<SubTexture name="corruptedannie_down0013" x="2556" y="946" width="363" height="376" frameX="-12" frameY="-35" frameWidth="375" frameHeight="436"/>
+	<SubTexture name="corruptedannie_left0000" x="2919" y="946" width="372" height="395" frameX="0" frameY="-17" frameWidth="407" frameHeight="417"/>
+	<SubTexture name="corruptedannie_left0001" x="3291" y="946" width="362" height="395" frameX="-10" frameY="-17" frameWidth="407" frameHeight="417"/>
+	<SubTexture name="corruptedannie_left0002" x="3653" y="946" width="379" height="395" frameX="-5" frameY="-17" frameWidth="407" frameHeight="417"/>
+	<SubTexture name="corruptedannie_left0003" x="0" y="1357" width="372" height="395" frameX="-12" frameY="-17" frameWidth="407" frameHeight="417"/>
+	<SubTexture name="corruptedannie_left0004" x="372" y="1357" width="381" height="402" frameX="-11" frameY="-10" frameWidth="407" frameHeight="417"/>
+	<SubTexture name="corruptedannie_left0005" x="753" y="1357" width="375" height="402" frameX="-17" frameY="-10" frameWidth="407" frameHeight="417"/>
+	<SubTexture name="corruptedannie_left0006" x="1128" y="1357" width="384" height="412" frameX="-23" frameY="0" frameWidth="407" frameHeight="417"/>
+	<SubTexture name="corruptedannie_left0007" x="1512" y="1357" width="382" height="412" frameX="-25" frameY="0" frameWidth="407" frameHeight="417"/>
+	<SubTexture name="corruptedannie_left0008" x="1894" y="1357" width="384" height="412" frameX="-23" frameY="0" frameWidth="407" frameHeight="417"/>
+	<SubTexture name="corruptedannie_left0009" x="2278" y="1357" width="382" height="412" frameX="-25" frameY="0" frameWidth="407" frameHeight="417"/>
+	<SubTexture name="corruptedannie_left0010" x="2660" y="1357" width="390" height="412" frameX="-17" frameY="0" frameWidth="407" frameHeight="417"/>
+	<SubTexture name="corruptedannie_left0011" x="3050" y="1357" width="380" height="412" frameX="-27" frameY="0" frameWidth="407" frameHeight="417"/>
+	<SubTexture name="corruptedannie_left0012" x="3430" y="1357" width="387" height="417" frameX="-20" frameY="0" frameWidth="407" frameHeight="417"/>
+	<SubTexture name="corruptedannie_left0013" x="0" y="1774" width="378" height="412" frameX="-29" frameY="0" frameWidth="407" frameHeight="417"/>
+	<SubTexture name="corruptedannie_right0000" x="378" y="1774" width="488" height="447"/>
+	<SubTexture name="corruptedannie_right0001" x="866" y="1774" width="488" height="447"/>
+	<SubTexture name="corruptedannie_right0002" x="1354" y="1774" width="474" height="440" frameX="0" frameY="-7" frameWidth="488" frameHeight="447"/>
+	<SubTexture name="corruptedannie_right0003" x="1828" y="1774" width="474" height="440" frameX="0" frameY="-7" frameWidth="488" frameHeight="447"/>
+	<SubTexture name="corruptedannie_right0004" x="2302" y="1774" width="445" height="432" frameX="0" frameY="-15" frameWidth="488" frameHeight="447"/>
+	<SubTexture name="corruptedannie_right0005" x="2747" y="1774" width="445" height="432" frameX="0" frameY="-15" frameWidth="488" frameHeight="447"/>
+	<SubTexture name="corruptedannie_right0006" x="3192" y="1774" width="429" height="417" frameX="0" frameY="-30" frameWidth="488" frameHeight="447"/>
+	<SubTexture name="corruptedannie_right0007" x="3621" y="1774" width="429" height="417" frameX="0" frameY="-30" frameWidth="488" frameHeight="447"/>
+	<SubTexture name="corruptedannie_right0008" x="0" y="2221" width="429" height="417" frameX="0" frameY="-30" frameWidth="488" frameHeight="447"/>
+	<SubTexture name="corruptedannie_right0009" x="429" y="2221" width="429" height="417" frameX="0" frameY="-30" frameWidth="488" frameHeight="447"/>
+	<SubTexture name="corruptedannie_right0010" x="858" y="2221" width="429" height="417" frameX="0" frameY="-30" frameWidth="488" frameHeight="447"/>
+	<SubTexture name="corruptedannie_right0011" x="1287" y="2221" width="429" height="417" frameX="0" frameY="-30" frameWidth="488" frameHeight="447"/>
+	<SubTexture name="corruptedannie_right0012" x="1716" y="2221" width="429" height="417" frameX="0" frameY="-30" frameWidth="488" frameHeight="447"/>
+	<SubTexture name="corruptedannie_right0013" x="2145" y="2221" width="429" height="417" frameX="0" frameY="-30" frameWidth="488" frameHeight="447"/>
+	<SubTexture name="corruptedannie_up0000" x="2574" y="2221" width="290" height="514" frameX="-6" frameY="0" frameWidth="334" frameHeight="514"/>
+	<SubTexture name="corruptedannie_up0001" x="2864" y="2221" width="289" height="514" frameX="-7" frameY="0" frameWidth="334" frameHeight="514"/>
+	<SubTexture name="corruptedannie_up0002" x="3153" y="2221" width="302" height="509" frameX="-7" frameY="-5" frameWidth="334" frameHeight="514"/>
+	<SubTexture name="corruptedannie_up0003" x="3455" y="2221" width="302" height="509" frameX="-7" frameY="-5" frameWidth="334" frameHeight="514"/>
+	<SubTexture name="corruptedannie_up0004" x="3757" y="2221" width="312" height="502" frameX="-7" frameY="-12" frameWidth="334" frameHeight="514"/>
+	<SubTexture name="corruptedannie_up0005" x="0" y="2735" width="312" height="502" frameX="-7" frameY="-12" frameWidth="334" frameHeight="514"/>
+	<SubTexture name="corruptedannie_up0006" x="312" y="2735" width="322" height="500" frameX="-7" frameY="-14" frameWidth="334" frameHeight="514"/>
+	<SubTexture name="corruptedannie_up0007" x="634" y="2735" width="317" height="500" frameX="-7" frameY="-14" frameWidth="334" frameHeight="514"/>
+	<SubTexture name="corruptedannie_up0008" x="951" y="2735" width="327" height="500" frameX="-7" frameY="-14" frameWidth="334" frameHeight="514"/>
+	<SubTexture name="corruptedannie_up0009" x="1278" y="2735" width="317" height="500" frameX="-7" frameY="-14" frameWidth="334" frameHeight="514"/>
+	<SubTexture name="corruptedannie_up0010" x="1595" y="2735" width="317" height="500" frameX="-7" frameY="-14" frameWidth="334" frameHeight="514"/>
+	<SubTexture name="corruptedannie_up0011" x="1912" y="2735" width="317" height="500" frameX="-7" frameY="-14" frameWidth="334" frameHeight="514"/>
+	<SubTexture name="corruptedannie_up0012" x="2229" y="2735" width="324" height="500" frameX="0" frameY="-14" frameWidth="334" frameHeight="514"/>
+	<SubTexture name="corruptedannie_up0013" x="2553" y="2735" width="317" height="500" frameX="-7" frameY="-14" frameWidth="334" frameHeight="514"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="imagepika.png"><SubTexture name="imagepika down0000" x="0" y="1200" width="396" height="396" frameX="-2" frameY="-2" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika down0001" x="396" y="1200" width="398" height="391" frameX="-1" frameY="-7" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika down0002" x="794" y="1200" width="400" height="387" frameX="0" frameY="-11" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika down0003" x="1194" y="1200" width="400" height="381" frameX="0" frameY="-18" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika left0000" x="1376" y="0" width="359" height="399" frameX="0" frameY="-1" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika left0001" x="0" y="0" width="361" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika left0002" x="361" y="0" width="363" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika left0003" x="724" y="0" width="365" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika right0000" x="0" y="400" width="280" height="400" frameX="-69" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika right0001" x="280" y="400" width="282" height="400" frameX="-67" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika right0002" x="562" y="400" width="284" height="400" frameX="-65" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika right0003" x="1089" y="0" width="287" height="400" frameX="-62" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika up0000" x="0" y="800" width="300" height="400" frameX="-32" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika up0001" x="300" y="800" width="302" height="400" frameX="-31" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika up0002" x="602" y="800" width="306" height="400" frameX="-29" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="imagepika up0003" x="908" y="800" width="310" height="400" frameX="-27" frameY="0" frameWidth="400" frameHeight="400" />
+</TextureAtlas>

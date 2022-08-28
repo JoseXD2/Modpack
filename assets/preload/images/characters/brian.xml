@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="brian.png">
+<SubTexture name="brian idle0000" x="927" y="1146" width="222" height="358" frameX="-480" frameY="-150" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian idle0001" x="709" y="1146" width="218" height="362" frameX="-480" frameY="-146" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian idle0002" x="496" y="1146" width="213" height="365" frameX="-480" frameY="-143" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian idle0003" x="1297" y="738" width="211" height="368" frameX="-480" frameY="-140" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian idle0004" x="434" y="392" width="209" height="369" frameX="-480" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian idle0005" x="643" y="392" width="209" height="369" frameX="-480" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian idle0006" x="434" y="392" width="209" height="369" frameX="-480" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian idle0007" x="873" y="0" width="209" height="369" frameX="-480" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian idle0008" x="434" y="392" width="209" height="369" frameX="-480" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian idle0009" x="873" y="369" width="209" height="369" frameX="-480" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian down0000" x="1538" y="0" width="244" height="350" frameX="-460" frameY="-158" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian down0001" x="1782" y="0" width="257" height="349" frameX="-455" frameY="-159" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian down0002" x="1782" y="698" width="257" height="346" frameX="-448" frameY="-162" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian down0003" x="1782" y="349" width="256" height="349" frameX="-455" frameY="-159" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian down0004" x="1538" y="0" width="244" height="350" frameX="-460" frameY="-158" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian down0005" x="1149" y="1146" width="240" height="352" frameX="-462" frameY="-156" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian left0000" x="1082" y="0" width="215" height="369" frameX="-464" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian left0001" x="1082" y="369" width="214" height="369" frameX="-464" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian left0002" x="0" y="777" width="215" height="369" frameX="-463" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian left0003" x="215" y="777" width="216" height="369" frameX="-464" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian left0004" x="431" y="777" width="215" height="369" frameX="-463" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian left0005" x="646" y="777" width="214" height="369" frameX="-464" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian right0000" x="860" y="777" width="241" height="369" frameX="-480" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian right0001" x="1297" y="0" width="241" height="369" frameX="-480" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian right0002" x="0" y="1146" width="246" height="369" frameX="-480" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian right0003" x="246" y="1146" width="250" height="369" frameX="-480" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian right0004" x="0" y="1146" width="246" height="369" frameX="-480" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian right0005" x="1297" y="369" width="240" height="369" frameX="-480" frameY="-139" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian up0000" x="217" y="392" width="217" height="382" frameX="-488" frameY="-126" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian up0001" x="655" y="0" width="218" height="385" frameX="-489" frameY="-123" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian up0002" x="221" y="0" width="217" height="389" frameX="-490" frameY="-119" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian up0003" x="0" y="0" width="221" height="392" frameX="-491" frameY="-116" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian up0004" x="438" y="0" width="217" height="389" frameX="-490" frameY="-119" frameWidth="920" frameHeight="580" />
+<SubTexture name="brian up0005" x="0" y="392" width="217" height="385" frameX="-489" frameY="-123" frameWidth="920" frameHeight="580" />
+</TextureAtlas>

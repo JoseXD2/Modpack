@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phineas.png"><SubTexture name="phineas down0000" x="552" y="2606" width="566" height="479" frameX="-242" frameY="-251" frameWidth="909" frameHeight="897" />
+<SubTexture name="phineas down0001" x="1118" y="2606" width="557" height="469" frameX="-242" frameY="-259" frameWidth="909" frameHeight="897" />
+<SubTexture name="phineas down0002" x="0" y="2606" width="552" height="499" frameX="-242" frameY="-228" frameWidth="909" frameHeight="897" />
+<SubTexture name="phineas down0003" x="2714" y="0" width="549" height="508" frameX="-242" frameY="-219" frameWidth="909" frameHeight="897" />
+<SubTexture name="phineas down0004" x="1756" y="1977" width="549" height="510" frameX="-242" frameY="-217" frameWidth="909" frameHeight="897" />
+<SubTexture name="phineas idle0000" x="2232" y="0" width="482" height="632" frameX="-178" frameY="-117" frameWidth="837" frameHeight="866" />
+<SubTexture name="phineas idle0001" x="0" y="667" width="451" height="659" frameX="-190" frameY="-89" frameWidth="837" frameHeight="866" />
+<SubTexture name="phineas idle0002" x="1265" y="0" width="431" height="665" frameX="-197" frameY="-83" frameWidth="837" frameHeight="866" />
+<SubTexture name="phineas idle0003" x="0" y="0" width="424" height="667" frameX="-197" frameY="-81" frameWidth="837" frameHeight="866" />
+<SubTexture name="phineas idle0004" x="424" y="0" width="421" height="667" frameX="-197" frameY="-81" frameWidth="837" frameHeight="866" />
+<SubTexture name="phineas idle0005" x="845" y="0" width="420" height="667" frameX="-197" frameY="-81" frameWidth="837" frameHeight="866" />
+<SubTexture name="phineas left0000" x="2232" y="632" width="473" height="628" frameX="-122" frameY="-184" frameWidth="901" frameHeight="933" />
+<SubTexture name="phineas left0001" x="2232" y="1260" width="395" height="609" frameX="-190" frameY="-205" frameWidth="901" frameHeight="933" />
+<SubTexture name="phineas left0002" x="601" y="1977" width="386" height="596" frameX="-220" frameY="-216" frameWidth="901" frameHeight="933" />
+<SubTexture name="phineas left0003" x="987" y="1977" width="380" height="593" frameX="-228" frameY="-219" frameWidth="901" frameHeight="933" />
+<SubTexture name="phineas left0004" x="1367" y="1977" width="389" height="592" frameX="-230" frameY="-220" frameWidth="901" frameHeight="933" />
+<SubTexture name="phineas right0000" x="0" y="1977" width="601" height="629" frameX="-167" frameY="-133" frameWidth="960" frameHeight="924" />
+<SubTexture name="phineas right0001" x="0" y="1326" width="563" height="651" frameX="-166" frameY="-112" frameWidth="960" frameHeight="924" />
+<SubTexture name="phineas right0002" x="451" y="667" width="541" height="653" frameX="-166" frameY="-110" frameWidth="960" frameHeight="924" />
+<SubTexture name="phineas right0003" x="1696" y="0" width="536" height="652" frameX="-165" frameY="-110" frameWidth="960" frameHeight="924" />
+<SubTexture name="phineas right0004" x="992" y="667" width="538" height="653" frameX="-165" frameY="-109" frameWidth="960" frameHeight="924" />
+<SubTexture name="phineas up0000" x="1843" y="1326" width="378" height="636" frameX="-166" frameY="-191" frameWidth="901" frameHeight="921" />
+<SubTexture name="phineas up0001" x="1426" y="1326" width="417" height="649" frameX="-125" frameY="-179" frameWidth="901" frameHeight="921" />
+<SubTexture name="phineas up0002" x="997" y="1326" width="429" height="650" frameX="-113" frameY="-177" frameWidth="901" frameHeight="921" />
+<SubTexture name="phineas up0003" x="1696" y="652" width="433" height="651" frameX="-109" frameY="-176" frameWidth="901" frameHeight="921" />
+<SubTexture name="phineas up0004" x="563" y="1326" width="434" height="651" frameX="-108" frameY="-176" frameWidth="901" frameHeight="921" />
+</TextureAtlas>

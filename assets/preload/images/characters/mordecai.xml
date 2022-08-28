@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mordecai.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mordecai Down0000" x="0" y="0" width="291" height="326" frameX="-2" frameY="-5" frameWidth="293" frameHeight="331"/>
+	<SubTexture name="Mordecai Down0001" x="291" y="0" width="291" height="326" frameX="-2" frameY="-5" frameWidth="293" frameHeight="331"/>
+	<SubTexture name="Mordecai Down0002" x="582" y="0" width="289.5" height="328" frameX="-1.5" frameY="-3" frameWidth="293" frameHeight="331"/>
+	<SubTexture name="Mordecai Down0003" x="871.5" y="0" width="289.5" height="328" frameX="-1.5" frameY="-3" frameWidth="293" frameHeight="331"/>
+	<SubTexture name="Mordecai Down0004" x="1161" y="0" width="288.5" height="329.5" frameX="-2" frameY="-1.5" frameWidth="293" frameHeight="331"/>
+	<SubTexture name="Mordecai Down0005" x="1449.5" y="0" width="290.5" height="329.5" frameX="0" frameY="-1.5" frameWidth="293" frameHeight="331"/>
+	<SubTexture name="Mordecai Down0006" x="1740" y="0" width="288.5" height="331" frameX="-2.5" frameY="0" frameWidth="293" frameHeight="331"/>
+	<SubTexture name="Mordecai idle0000" x="2028.5" y="0" width="319.5" height="415" frameX="0" frameY="-2" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai idle0001" x="2348" y="0" width="305.5" height="411.5" frameX="-14" frameY="-2" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai idle0002" x="2653.5" y="0" width="301.5" height="413.5" frameX="-12" frameY="0" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai idle0003" x="2955" y="0" width="309.5" height="413.5" frameX="-4" frameY="0" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai idle0004" x="3264.5" y="0" width="297.5" height="413.5" frameX="-13" frameY="0" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai idle0005" x="3562" y="0" width="336.5" height="417" frameX="-8.5" frameY="0" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai idle0006" x="0" y="417" width="298.5" height="417" frameX="-13" frameY="0" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai idle0007" x="298.5" y="417" width="300.5" height="417" frameX="-9" frameY="0" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai idle0008" x="599" y="417" width="300.5" height="419" frameX="-9" frameY="-1" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai idle0009" x="899.5" y="417" width="300.5" height="419" frameX="-9" frameY="-1" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai idle0010" x="1200" y="417" width="299.5" height="417.5" frameX="-10" frameY="-2.5" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai idle0011" x="1499.5" y="417" width="299.5" height="417.5" frameX="-10" frameY="-2.5" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai idle0012" x="1799" y="417" width="299.5" height="412.5" frameX="-10" frameY="-2.5" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai idle0013" x="2098.5" y="417" width="299" height="409" frameX="-12" frameY="-6" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai idle0014" x="2397.5" y="417" width="300" height="419" frameX="-11" frameY="-6" frameWidth="345" frameHeight="425"/>
+	<SubTexture name="Mordecai left0000" x="2697.5" y="417" width="320" height="364" frameX="-6.5" frameY="0" frameWidth="326.5" frameHeight="368.5"/>
+	<SubTexture name="Mordecai left0001" x="3017.5" y="417" width="305.5" height="364" frameX="-21" frameY="0" frameWidth="326.5" frameHeight="368.5"/>
+	<SubTexture name="Mordecai left0002" x="3323" y="417" width="299.5" height="350.5" frameX="-27" frameY="-18" frameWidth="326.5" frameHeight="368.5"/>
+	<SubTexture name="Mordecai left0003" x="3622.5" y="417" width="299.5" height="349.5" frameX="-27" frameY="-19" frameWidth="326.5" frameHeight="368.5"/>
+	<SubTexture name="Mordecai left0004" x="0" y="836" width="326.5" height="347.5" frameX="0" frameY="-21" frameWidth="326.5" frameHeight="368.5"/>
+	<SubTexture name="Mordecai left0005" x="326.5" y="836" width="294.5" height="346.5" frameX="-32" frameY="-22" frameWidth="326.5" frameHeight="368.5"/>
+	<SubTexture name="Mordecai left0006" x="621" y="836" width="295" height="345" frameX="-31.5" frameY="-21" frameWidth="326.5" frameHeight="368.5"/>
+	<SubTexture name="Mordecai right0000" x="916" y="836" width="520.5" height="306" frameX="0" frameY="0" frameWidth="539" frameHeight="306"/>
+	<SubTexture name="Mordecai right0001" x="1436.5" y="836" width="520.5" height="306" frameX="0" frameY="0" frameWidth="539" frameHeight="306"/>
+	<SubTexture name="Mordecai right0002" x="1957" y="836" width="530.5" height="261" frameX="0" frameY="-44.5" frameWidth="539" frameHeight="306"/>
+	<SubTexture name="Mordecai right0003" x="2487.5" y="836" width="522" height="261" frameX="-8.5" frameY="-44.5" frameWidth="539" frameHeight="306"/>
+	<SubTexture name="Mordecai right0004" x="3009.5" y="836" width="521" height="278" frameX="-12.5" frameY="-26.5" frameWidth="539" frameHeight="306"/>
+	<SubTexture name="Mordecai right0005" x="3530.5" y="836" width="523.5" height="285.5" frameX="-10" frameY="-20.5" frameWidth="539" frameHeight="306"/>
+	<SubTexture name="Mordecai right0006" x="0" y="1183.5" width="529" height="291.5" frameX="-10" frameY="-14.5" frameWidth="539" frameHeight="306"/>
+	<SubTexture name="Mordecai up0000" x="529" y="1183.5" width="258.5" height="466.5" frameX="-1" frameY="-7.5" frameWidth="267.5" frameHeight="474.5"/>
+	<SubTexture name="Mordecai up0001" x="787.5" y="1183.5" width="251" height="474" frameX="-1" frameY="0" frameWidth="267.5" frameHeight="474.5"/>
+	<SubTexture name="Mordecai up0002" x="1038.5" y="1183.5" width="259" height="466.5" frameX="0" frameY="-7" frameWidth="267.5" frameHeight="474.5"/>
+	<SubTexture name="Mordecai up0003" x="1297.5" y="1183.5" width="261.5" height="466.5" frameX="0" frameY="-7" frameWidth="267.5" frameHeight="474.5"/>
+	<SubTexture name="Mordecai up0004" x="1559" y="1183.5" width="266" height="461" frameX="0" frameY="-13" frameWidth="267.5" frameHeight="474.5"/>
+	<SubTexture name="Mordecai up0005" x="1825" y="1183.5" width="263.5" height="463" frameX="0" frameY="-11" frameWidth="267.5" frameHeight="474.5"/>
+	<SubTexture name="Mordecai up0006" x="2088.5" y="1183.5" width="267" height="460.5" frameX="-0.5" frameY="-14" frameWidth="267.5" frameHeight="474.5"/>
+</TextureAtlas>

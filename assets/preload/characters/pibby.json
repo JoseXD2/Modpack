@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-430,
+				-279
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "pibby idle"
+		},
+		{
+			"offsets": [
+				-430,
+				-279
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "pibby idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pibby",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

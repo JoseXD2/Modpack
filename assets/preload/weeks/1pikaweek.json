@@ -1,0 +1,26 @@
+{
+	"storyName": "Pokemon Adventures",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"pokeglitch",
+			"pika",
+			[
+				225,
+				190,
+				0
+			]
+		]
+	],
+	"weekName": "1PikaWeek"
+}

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="BF.png" width="2863" height="2615">
+  <SubTexture name="ALT 2 BF DOWN0000.png" x="0" y="0"  width="265.3" height="234.49999999999997" frameX="-0" frameY="-5.60000000000003" frameWidth="265.3" frameHeight="234.49999999999997"/>
+  <SubTexture name="ALT 2 BF DOWN0001.png" x="265.3" y="0"  width="259.7" height="235.2" frameX="-0" frameY="-4.9" frameWidth="259.7" frameHeight="235.2"/>
+  <SubTexture name="ALT 2 BF DOWN0002.png" x="525" y="0"  width="256.9" height="240.1" frameX="-0" frameY="-0" frameWidth="256.9" frameHeight="240.1"/>
+  <SubTexture name="ALT 2 BF DOWN0003.png" x="781.9" y="0"  width="256.9" height="240.1" frameX="-0" frameY="-0" frameWidth="256.9" frameHeight="240.1"/>
+  <SubTexture name="ALT 2 BF DOWN0004.png" x="1038.8" y="0"  width="256.9" height="240.1" frameX="-0" frameY="-0" frameWidth="256.9" frameHeight="240.1"/>
+  <SubTexture name="ALT 2 BF DOWN0005.png" x="1295.6999999999998" y="0"  width="257.59999999999997" height="240.1" frameX="-0" frameY="-0" frameWidth="257.59999999999997" frameHeight="240.1"/>
+  
+  <SubTexture name="BF NOTE DOWN0000.png" x="1553.3" y="0"  width="261.09999999999997" height="248.49999999999997" frameX="-0" frameY="-0" frameWidth="261.09999999999997" frameHeight="248.49999999999997"/>
+  <SubTexture name="BF NOTE DOWN0001.png" x="1814.3999999999999" y="0"  width="259" height="249.89999999999998" frameX="-0" frameY="-0" frameWidth="259" frameHeight="249.89999999999998"/>
+  <SubTexture name="BF NOTE DOWN0002.png" x="2073.4" y="0"  width="259" height="250.6" frameX="-0" frameY="-0" frameWidth="259" frameHeight="250.6"/>
+  <SubTexture name="BF NOTE DOWN0003.png" x="2332.3999999999996" y="0"  width="259.7" height="250.6" frameX="-0" frameY="-0" frameWidth="259.7" frameHeight="250.6"/>
+  <SubTexture name="BF NOTE DOWN0004.png" x="2592.1" y="0"  width="259" height="250.6" frameX="-0" frameY="-0" frameWidth="259" frameHeight="250.6"/>
+  <SubTexture name="BF NOTE DOWN0005.png" x="0" y="234.49999999999997"  width="259" height="250.6" frameX="-0" frameY="-0" frameWidth="259" frameHeight="250.6"/>
+  <SubTexture name="BF NOTE DOWN0006.png" x="259" y="235.2"  width="259" height="250.6" frameX="-0" frameY="-0" frameWidth="259" frameHeight="250.6"/>
+  
+  <SubTexture name="BF idle dance0009.png" x="0" y="1049.3"  width="286.29999999999995" height="289.09999999999997" frameX="-5" frameY="-0" frameWidth="286.29999999999995" frameHeight="289.09999999999997"/>
+  <SubTexture name="BF idle dance0002.png" x="518" y="240.1"  width="265.3" height="271.59999999999997" frameX="-23" frameY="-17.5" frameWidth="265.3" frameHeight="271.59999999999997"/>
+  <SubTexture name="BF idle dance0003.png" x="783.3" y="240.1"  width="263.9" height="271.59999999999997" frameX="-28" frameY="-17.5" frameWidth="263.9" frameHeight="271.59999999999997"/>
+  <SubTexture name="BF idle dance0000.png" x="1047.2" y="240.1"  width="275.79999999999995" height="272.29999999999995" frameX="-17" frameY="-16.80000000000002" frameWidth="275.79999999999995" frameHeight="272.29999999999995"/>
+  <SubTexture name="BF idle dance0001.png" x="1323" y="248.49999999999997"  width="273" height="272.29999999999995" frameX="-28" frameY="-16.80000000000002" frameWidth="273" frameHeight="272.29999999999995"/>
+  <SubTexture name="BF idle dance0004.png" x="1859.1999999999998" y="250.6"  width="259.7" height="276.5" frameX="-32" frameY="-12.59999999999997" frameWidth="259.7" frameHeight="276.5"/>
+  <SubTexture name="BF idle dance0005.png" x="2118.9" y="250.6"  width="281.4" height="276.5" frameX="-10" frameY="-12.59999999999997" frameWidth="281.4" frameHeight="276.5"/>
+  <SubTexture name="BF idle dance0008.png" x="2313.5" y="812.6999999999999"  width="286.29999999999995" height="289.09999999999997" frameX="-5" frameY="-0" frameWidth="286.29999999999995" frameHeight="289.09999999999997"/>
+  <SubTexture name="BF idle dance0006.png" x="2015.9999999999998" y="527.1"  width="294.7" height="282.09999999999997" frameX="-0" frameY="-7" frameWidth="294.7" frameHeight="282.09999999999997"/>
+  <SubTexture name="BF idle dance0007.png" x="2310.7" y="530.6"  width="291.2" height="282.09999999999997" frameX="-3" frameY="-7" frameWidth="291.2" frameHeight="282.09999999999997"/>
+  <SubTexture name="BF idle dance0010.png" x="900.9" y="1078.6999999999998"  width="286.29999999999995" height="289.09999999999997" frameX="-5" frameY="-1" frameWidth="286.29999999999995" frameHeight="289.09999999999997"/>
+  
+  <SubTexture name="BF NOTE DOWN MISS0000.png" x="1596" y="249.89999999999998"  width="263.2" height="275.09999999999997" frameX="-0" frameY="-0" frameWidth="263.2" frameHeight="275.09999999999997"/>
+  <SubTexture name="ALT 2 BF RIGHT0000.png" x="2400.2999999999997" y="250.6"  width="323.4" height="280" frameX="-0" frameY="-0" frameWidth="323.4" frameHeight="280"/>
+  <SubTexture name="ALT 2 BF RIGHT0001.png" x="0" y="485.79999999999995"  width="324.79999999999995" height="280" frameX="-0" frameY="-0" frameWidth="324.79999999999995" frameHeight="280"/>
+  <SubTexture name="ALT 2 BF RIGHT0002.png" x="324.79999999999995" y="511.7"  width="324.79999999999995" height="280" frameX="-0" frameY="-0" frameWidth="324.79999999999995" frameHeight="280"/>
+  <SubTexture name="ALT 2 BF RIGHT0003.png" x="649.5999999999999" y="511.7"  width="324.79999999999995" height="280" frameX="-0" frameY="-0" frameWidth="324.79999999999995" frameHeight="280"/>
+  
+  <SubTexture name="BF NOTE LEFT0000.png" x="1474.1999999999998" y="807.0999999999999"  width="268.09999999999997" height="284.9" frameX="-0" frameY="-0" frameWidth="268.09999999999997" frameHeight="284.9"/>
+  <SubTexture name="BF NOTE LEFT0002.png" x="974.4" y="512.4"  width="260.4" height="282.09999999999997" frameX="-7.69999999999997" frameY="-0" frameWidth="260.4" frameHeight="282.09999999999997"/>
+  <SubTexture name="BF NOTE LEFT0003.png" x="1234.8" y="520.8"  width="260.4" height="282.09999999999997" frameX="-7.69999999999997" frameY="-0" frameWidth="260.4" frameHeight="282.09999999999997"/>
+  <SubTexture name="BF NOTE LEFT0004.png" x="1495.1999999999998" y="525"  width="260.4" height="282.09999999999997" frameX="-7.69999999999997" frameY="-0" frameWidth="260.4" frameHeight="282.09999999999997"/>
+  <SubTexture name="BF NOTE LEFT0005.png" x="1755.6" y="527.1"  width="260.4" height="282.09999999999997" frameX="-7.69999999999997" frameY="-0" frameWidth="260.4" frameHeight="282.09999999999997"/>
+  <SubTexture name="BF NOTE LEFT0001.png" x="2601.8999999999996" y="530.6"  width="261.09999999999997" height="284.9" frameX="-7" frameY="-0" frameWidth="261.09999999999997" frameHeight="284.9"/>
+  
+  <SubTexture name="BF NOTE RIGHT0000.png" x="0" y="765.8"  width="287.7" height="283.5" frameX="-0" frameY="-0" frameWidth="287.7" frameHeight="283.5"/>
+  <SubTexture name="ALT 2 BF RIGHT0004.png" x="287.7" y="791.6999999999999"  width="327.59999999999997" height="283.5" frameX="-0" frameY="-0" frameWidth="327.59999999999997" frameHeight="283.5"/>
+  <SubTexture name="BF NOTE RIGHT0001.png" x="615.3" y="791.6999999999999"  width="287.7" height="284.2" frameX="-0" frameY="-0" frameWidth="287.7" frameHeight="284.2"/>
+  <SubTexture name="BF NOTE RIGHT0002.png" x="902.9999999999999" y="794.5"  width="285.59999999999997" height="284.2" frameX="-0" frameY="-0" frameWidth="285.59999999999997" frameHeight="284.2"/>
+  <SubTexture name="BF NOTE RIGHT0003.png" x="1188.6" y="802.9"  width="285.59999999999997" height="284.2" frameX="-0" frameY="-0" frameWidth="285.59999999999997" frameHeight="284.2"/>
+  <SubTexture name="BF NOTE RIGHT0004.png" x="1742.3" y="809.1999999999999"  width="285.59999999999997" height="284.2" frameX="-0" frameY="-0" frameWidth="285.59999999999997" frameHeight="284.2"/>
+  <SubTexture name="BF NOTE RIGHT0005.png" x="2027.8999999999999" y="812.6999999999999"  width="285.59999999999997" height="284.2" frameX="-0" frameY="-0" frameWidth="285.59999999999997" frameHeight="284.2"/>
+  <SubTexture name="BF NOTE UP MISS0000.png" x="2599.7999999999997" y="815.5"  width="251.29999999999998" height="298.9" frameX="-0" frameY="-0" frameWidth="251.29999999999998" frameHeight="298.9"/>
+  <SubTexture name="BF dies0002.png" x="286.29999999999995" y="1075.1999999999998"  width="307.29999999999995" height="287.7" frameX="-0" frameY="-0" frameWidth="307.29999999999995" frameHeight="287.7"/>
+  <SubTexture name="BF dies0003.png" x="593.5999999999999" y="1075.8999999999999"  width="307.29999999999995" height="287.7" frameX="-0" frameY="-0" frameWidth="307.29999999999995" frameHeight="287.7"/>
+  <SubTexture name="BF dies0000.png" x="1187.1999999999998" y="1092"  width="303.09999999999997" height="290.5" frameX="-0" frameY="-0" frameWidth="303.09999999999997" frameHeight="290.5"/>
+  <SubTexture name="BF dies0001.png" x="1490.3" y="1093.3999999999999"  width="303.09999999999997" height="290.5" frameX="-0" frameY="-0" frameWidth="303.09999999999997" frameHeight="290.5"/>
+  
+  <SubTexture name="ALT 2 BF LEFT0000.png" x="1793.3999999999999" y="1096.8999999999999"  width="282.09999999999997" height="296.79999999999995" frameX="-0" frameY="-0" frameWidth="282.09999999999997" frameHeight="296.79999999999995"/>
+  <SubTexture name="ALT 2 BF LEFT0001.png" x="2075.5" y="1101.8"  width="280.7" height="296.79999999999995" frameX="-1.39999999999997" frameY="-0" frameWidth="280.7" frameHeight="296.79999999999995"/>
+  <SubTexture name="ALT 2 BF LEFT0002.png" x="2356.2" y="1114.3999999999999"  width="281.4" height="296.79999999999995" frameX="-0.69999999999997" frameY="-0" frameWidth="281.4" frameHeight="296.79999999999995"/>
+  <SubTexture name="ALT 2 BF LEFT0003.png" x="0" y="1338.3999999999999"  width="280.7" height="296.79999999999995" frameX="-1.39999999999997" frameY="-0" frameWidth="280.7" frameHeight="296.79999999999995"/>
+  <SubTexture name="ALT 2 BF LEFT0004.png" x="280.7" y="1362.8999999999999"  width="281.4" height="296.79999999999995" frameX="-0.69999999999997" frameY="-0" frameWidth="281.4" frameHeight="296.79999999999995"/>
+  <SubTexture name="ALT 2 BF LEFT0005.png" x="562.0999999999999" y="1363.6"  width="281.4" height="296.79999999999995" frameX="-0.69999999999997" frameY="-0" frameWidth="281.4" frameHeight="296.79999999999995"/>
+  <SubTexture name="ALT 2 BF LEFT0006.png" x="843.5" y="1367.8"  width="281.4" height="296.79999999999995" frameX="-0.69999999999997" frameY="-0" frameWidth="281.4" frameHeight="296.79999999999995"/>
+  
+  <SubTexture name="BF NOTE LEFT MISS0000.png" x="1124.8999999999999" y="1382.5"  width="258.3" height="301" frameX="-0" frameY="-0" frameWidth="258.3" frameHeight="301"/>
+  <SubTexture name="BF NOTE RIGHT MISS0000.png" x="1383.1999999999998" y="1383.8999999999999"  width="276.5" height="302.4" frameX="-0" frameY="-0" frameWidth="276.5" frameHeight="302.4"/>
+  <SubTexture name="BF Dead Loop0000.png" x="1659.6999999999998" y="1393.6999999999998"  width="307.29999999999995" height="303.09999999999997" frameX="-0" frameY="-0" frameWidth="307.29999999999995" frameHeight="303.09999999999997"/>
+  <SubTexture name="BF Dead Loop0001.png" x="1966.9999999999998" y="1398.6"  width="307.29999999999995" height="303.09999999999997" frameX="-0" frameY="-0" frameWidth="307.29999999999995" frameHeight="303.09999999999997"/>
+  <SubTexture name="BF Dead Loop0002.png" x="2274.2999999999997" y="1411.1999999999998"  width="307.29999999999995" height="303.09999999999997" frameX="-0" frameY="-0" frameWidth="307.29999999999995" frameHeight="303.09999999999997"/>
+  
+  <SubTexture name="BF NOTE UP0005.png" x="2581.6" y="1411.1999999999998"  width="263.2" height="304.5" frameX="-0" frameY="-0" frameWidth="263.2" frameHeight="304.5"/>
+  <SubTexture name="BF NOTE UP0001.png" x="0" y="1635.1999999999998"  width="263.2" height="305.2" frameX="-0" frameY="-0" frameWidth="263.2" frameHeight="305.2"/>
+  <SubTexture name="BF NOTE UP0002.png" x="570.5" y="1660.3999999999999"  width="263.9" height="305.2" frameX="-0" frameY="-0" frameWidth="263.9" frameHeight="305.2"/>
+  <SubTexture name="BF NOTE UP0003.png" x="834.4" y="1664.6"  width="263.9" height="305.2" frameX="-0" frameY="-0" frameWidth="263.9" frameHeight="305.2"/>
+  <SubTexture name="BF NOTE UP0004.png" x="1098.3" y="1683.5"  width="263.9" height="305.2" frameX="-0" frameY="-0" frameWidth="263.9" frameHeight="305.2"/>
+  <SubTexture name="BF NOTE UP0000.png" x="1362.1999999999998" y="1686.3"  width="258.3" height="309.4" frameX="-0" frameY="-0" frameWidth="258.3" frameHeight="309.4"/>
+  
+  <SubTexture name="BF Dead Loop0004.png" x="1620.5" y="1696.8"  width="307.29999999999995" height="303.09999999999997" frameX="-0" frameY="-0" frameWidth="307.29999999999995" frameHeight="303.09999999999997"/>
+  <SubTexture name="BF Dead Loop0003.png" x="263.2" y="1660.3999999999999"  width="307.29999999999995" height="303.09999999999997" frameX="-0" frameY="-0" frameWidth="307.29999999999995" frameHeight="303.09999999999997"/>
+  <SubTexture name="BF Dead Loop0005.png" x="1927.8" y="1701.6999999999998"  width="307.29999999999995" height="303.09999999999997" frameX="-0" frameY="-0" frameWidth="307.29999999999995" frameHeight="303.09999999999997"/>
+  <SubTexture name="BF dies0004.png" x="2235.1" y="1714.3"  width="307.29999999999995" height="306.59999999999997" frameX="-0" frameY="-0" frameWidth="307.29999999999995" frameHeight="306.59999999999997"/>
+  
+  <SubTexture name="BF Dead confirm0003.png" x="2542.3999999999996" y="1715.6999999999998"  width="307.29999999999995" height="312.2" frameX="-0" frameY="-13.3" frameWidth="307.29999999999995" frameHeight="312.2"/>
+  <SubTexture name="BF Dead confirm0004.png" x="0" y="1963.4999999999998"  width="307.29999999999995" height="312.2" frameX="-0" frameY="-13.3" frameWidth="307.29999999999995" frameHeight="312.2"/>
+  <SubTexture name="BF Dead confirm0005.png" x="307.29999999999995" y="1965.6"  width="307.29999999999995" height="312.2" frameX="-0" frameY="-13.3" frameWidth="307.29999999999995" frameHeight="312.2"/>
+  <SubTexture name="BF Dead confirm0006.png" x="614.5999999999999" y="1969.8"  width="307.29999999999995" height="312.2" frameX="-0" frameY="-13.3" frameWidth="307.29999999999995" frameHeight="312.2"/>
+  <SubTexture name="BF Dead confirm0007.png" x="921.9" y="1988.6999999999998"  width="307.29999999999995" height="312.2" frameX="-0" frameY="-13.3" frameWidth="307.29999999999995" frameHeight="312.2"/>
+  <SubTexture name="BF Dead confirm0000.png" x="1229.1999999999998" y="1995.6999999999998"  width="307.29999999999995" height="312.9" frameX="-0" frameY="-12.6" frameWidth="307.29999999999995" frameHeight="312.9"/>
+  <SubTexture name="BF Dead confirm0002.png" x="1536.5" y="1999.8999999999999"  width="307.29999999999995" height="312.9" frameX="-0" frameY="-12.6" frameWidth="307.29999999999995" frameHeight="312.9"/>
+  <SubTexture name="BF Dead confirm0001.png" x="1843.8" y="2004.8"  width="307.29999999999995" height="325.5" frameX="-0" frameY="-0" frameWidth="307.29999999999995" frameHeight="325.5"/>
+  
+  <SubTexture name="ALT 2 BF UP0002.png" x="2151.1" y="2020.8999999999999"  width="280" height="329" frameX="-0" frameY="-4.2" frameWidth="280" frameHeight="329"/>
+  <SubTexture name="ALT 2 BF UP0004.png" x="2431.1" y="2027.8999999999999"  width="280" height="329" frameX="-0" frameY="-4.2" frameWidth="280" frameHeight="329"/>
+  <SubTexture name="ALT 2 BF UP0003.png" x="0" y="2275.7"  width="280" height="329.7" frameX="-0" frameY="-3.5" frameWidth="280" frameHeight="329.7"/>
+  <SubTexture name="ALT 2 BF UP0001.png" x="280" y="2277.7999999999997"  width="280" height="332.5" frameX="-0" frameY="-0.7" frameWidth="280" frameHeight="332.5"/>
+  <SubTexture name="ALT 2 BF UP0000.png" x="560" y="2282"  width="279.29999999999995" height="333.2" frameX="-0" frameY="-0" frameWidth="279.29999999999995" frameHeight="333.2"/>
+</TextureAtlas>

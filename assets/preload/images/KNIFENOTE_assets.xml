@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="knife dodge note.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="blue0000" x="1" y="1" width="157" height="154"/>
+	<SubTexture name="green0000" x="161" y="1" width="157" height="154"/>
+	<SubTexture name="purple0000" x="321" y="1" width="154" height="157"/>
+	<SubTexture name="red0000" x="1" y="161" width="154" height="157"/>
+</TextureAtlas>

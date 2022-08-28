@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"douh",
+			"bf",
+			[
+				226,
+				255,
+				195
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "homer",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "the simp.sons",
+	"weekName": "dou",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

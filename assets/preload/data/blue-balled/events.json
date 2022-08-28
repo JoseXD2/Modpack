@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "stage@YOU",
+		"player1": "bfYOU",
+		"player2": "bf@NOTYOU",
+		"player3": null,
+		"events": [
+			[
+				98823.5294117647,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "shes-gone",
+		"bpm": 136,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Blue Balled"
+	}
+}

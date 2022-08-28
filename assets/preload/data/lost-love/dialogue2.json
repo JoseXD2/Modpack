@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Sorry gf."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "If i only tried harder..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Mabye i couldv'e had you too."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"storyName": "Garcello...Annie...what happened to you?...",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Moribund",
+			"sadgar",
+			[
+				0,
+				255,
+				155
+			]
+		],
+		[
+			"Smoked",
+			"corruptgar",
+			[
+				0,
+				55,
+				0
+			]
+		],
+		[
+			"Solicited",
+			"corruptannie",
+			[
+				80,
+				0,
+				0
+			]
+		],
+		[
+			"Addicted",
+			"corruptduo",
+			[
+				20,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "weekgc"
+}

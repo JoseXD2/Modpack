@@ -1,0 +1,31 @@
+{
+	"storyName": "little stars, why did they turn off?",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "peppahouse",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"discovery-glitch",
+			"peppa",
+			[
+				255,
+				0,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "peppaweek"
+}

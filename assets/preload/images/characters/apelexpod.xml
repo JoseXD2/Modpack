@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="apelexpod.png"><SubTexture name="apelexpod idle0000" x="459" y="0" width="459" height="584" frameX="-162" frameY="-8" frameWidth="800" frameHeight="600" />
+<SubTexture name="apelexpod idle0001" x="0" y="0" width="459" height="592" frameX="-162" frameY="0" frameWidth="800" frameHeight="600" />
+</TextureAtlas>

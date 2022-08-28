@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "corruptStage",
+		"player1": "bfg",
+		"player2": "yeye",
+		"player3": null,
+		"events": [
+			[
+				4800,
+				[
+					[
+						"bgchnage",
+						"StageG",
+						"STAGEP"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-d"
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfg"
+					]
+				]
+			],
+			[
+				103200,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-d"
+					]
+				]
+			],
+			[
+				139200,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfg"
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-d"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "mom",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Lost love"
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "orange idle"
+		},
+		{
+			"offsets": [
+				441,
+				390
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "orange left"
+		},
+		{
+			"offsets": [
+				360,
+				440
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "orange down"
+		},
+		{
+			"offsets": [
+				365,
+				671
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "orange up"
+		},
+		{
+			"offsets": [
+				340,
+				367
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "orange right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PibbyOrangeTwo",
+	"position": [
+		-130,
+		50
+	],
+	"healthicon": "orange",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		144,
+		0
+	],
+	"camera_position": [
+		-350,
+		-290
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

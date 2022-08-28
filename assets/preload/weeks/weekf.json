@@ -1,0 +1,40 @@
+{
+	"storyName": "Corrupted bf fanmade stuff",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"weekBefore": "week@",
+	"freeplayColor": [
+		0,
+		195,
+		255
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bfo",
+		""
+	],
+	"songs": [
+		[
+			"Confronting yourself",
+			"bf",
+			[
+				0,
+				195,
+				255
+			]
+		],
+		[
+			"Phantasm",
+			"bf",
+			[
+				0,
+				195,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "BF"
+}
